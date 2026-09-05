@@ -1,3 +1,13 @@
+# Team 4 collaborative map project
+
+Lighthouse Labs midterm project by @cilantrodreams, @deke76 and @noahvandenberg. The application uses Express and EJS with map, point and user API routes. `server.js` starts the server on port 8080 by default; database configuration and project requirements are retained in the repository.
+
+Install the dependencies with `npm ci`, configure a local development database using `.env.example`, and run `npm start`. The package's `db:reset` command rolls back all migrations before recreating/seeding the development database: use it only with a disposable development database. `npm test` is a placeholder, not a passing test suite.
+
+All collaboration branches and history remain intact. This README adds project context while preserving the original scaffold instructions below for historical reference; those instructions describe creating a new project, not a required step for using this existing repository.
+
+## Original scaffold instructions
+
 LHL Node Skeleton
 =========
 
